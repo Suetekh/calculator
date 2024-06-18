@@ -1,16 +1,16 @@
-# calculat
+# Calculat App
 
-A new Flutter project.
+This project is a Flutter application that implements a simple yet powerful calculator with support for basic arithmetic operations and parentheses for complex expressions.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project serves as a foundation for building Flutter applications.
+This is an assignement given in mobile programming class as of 13th of july,2024
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- *Basic Arithmetic Operations*: Addition, Subtraction, Multiplication, Division.
+- *Parentheses Support*: Allows grouping of operations with parentheses.
+- *Clear Input Options*: AC to clear all input, C to delete the last character.
+- *Responsive Design*: Optimized for various screen sizes.
+  ![image](https://github.com/Suetekh/calculator/assets/90240831/bddb148f-7ce3-4bf9-9272-044e349cf78d)
