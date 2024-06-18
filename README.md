@@ -11,6 +11,6 @@ This project serves as a foundation for building Flutter applications.
 
 - *Basic Arithmetic Operations*: Addition, Subtraction, Multiplication, Division.
 - *Parentheses Support*: Allows grouping of operations with parentheses.
-- *Clear Input Options*: AC to clear all input, C to delete the last character.
+- *Clear Input Options*: C to clear all input, D to delete the last character.
 - *Responsive Design*: Optimized for various screen sizes.
   ![image](https://github.com/Suetekh/calculator/assets/90240831/bddb148f-7ce3-4bf9-9272-044e349cf78d)
