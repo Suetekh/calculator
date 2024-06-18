@@ -5,7 +5,7 @@ This project is a Flutter application that implements a simple yet powerful calc
 ## Getting Started
 
 This project serves as a foundation for building Flutter applications.
-This is an assignement given in mobile programming class as of 13th of july,2024
+
 
 ## Features
 
